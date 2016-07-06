@@ -1,0 +1,28 @@
+.spot-icon {
+	margin: 15px 15px;
+	width: 3rem;
+	height: 3rem;
+	line-height: 3rem;
+	font-size: 1.5rem;
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+	text-align: center;
+	background-color: $gray-lighter;
+}
+.spot-icon.small {
+	width: 2rem;
+	height: 2rem;
+	line-height: 2rem;
+	font-size: 1rem;
+}
+.spot-icon.large {
+	width: 4rem;
+	height: 4rem;
+	line-height: 4rem;
+	font-size: 2rem;
+}
+.spot-icon.dark {
+	background: $gray-dark;	
+	color: $gray-lighter;
+}

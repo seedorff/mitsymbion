@@ -1,0 +1,40 @@
+/* Colors */
+$symbion-primary: $brand-primary;
+$lightondark: #fff;
+$magenta: #C23B79;
+$muted-green: #A1A335;
+$yellow-sun: #F3B63E;
+$bright-orange: #F25C25;
+$tomato-red: #DA2B17;
+
+/* Backgrounds */
+.bg-symbion {
+  background-color: $symbion-primary !important; 
+  color: $lightondark !important;
+}
+.bg-symbion a { 
+  color: $lightondark; 
+}
+.bg-orange {
+	background-color: $bright-orange !important;
+	color: $lightondark !important;
+}
+.bg-red {
+	background-color: $tomato-red !important;
+	color: $lightondark !important;
+}
+.bg-magenta {
+	background-color: $magenta !important;
+	color: $lightondark !important;
+}
+.bg-green {
+	background-color: $muted-green !important;
+	color: $lightondark !important;
+}
+.bg-yellow {
+	background-color: $yellow-sun !important;
+	color: $lightondark !important;
+}
+
+/* Typography */
+$font-family-base: 'Fira Sans', sans-serif;
