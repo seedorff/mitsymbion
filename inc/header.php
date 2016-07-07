@@ -49,7 +49,7 @@
           <button class="navbar-toggler hidden-lg-up fa fa-bars" type="button" data-toggle="collapse" data-target="#navbar-header" aria-controls="navbar-header">
           </button>
           <div class="col-xs-10 col-md-6 pull-xs-right hidden-lg-up no-gutter">
-            <div id="sb-search" class="sb-search">
+            <div id="sb-search-responsive" class="sb-search">
               <form>
                 <input class="sb-search-input" placeholder="Søg i virksomheder" type="search" value="" name="search" id="search">
                 <input class="sb-search-submit" type="submit" value="">

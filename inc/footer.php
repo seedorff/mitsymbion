@@ -50,6 +50,7 @@
     <script>
     
     new UISearch( document.getElementById( 'sb-search' ) );
+    new UISearch( document.getElementById( 'sb-search-responsive' ) );
         
 
     // Only on messageboard page
