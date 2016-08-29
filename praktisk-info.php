@@ -3,7 +3,7 @@
       <h3 class="card-title">Opret P-licens</h3>
       <p class="card-text">De nye parkeringsregler er trådt i kraft pr. 2. maj 2016. Ønsker du at parkere på symbions område, skal du have en gyldig p-licens.</p>
       <p class="card-text">Anvender .card-warning for baggrund.</p>
-      <a href="#" class="btn btn-secondary">Indtast nummerplade</a>
+      <a href="<?php echo $site_url; ?>/?page=parkering" class="btn btn-secondary">Indtast nummerplade</a>
   </div>
   <div class="card">
     <img class="card-img-top img-fluid" src="http://placehold.it/380x180" alt="Card image cap">
