@@ -56,7 +56,7 @@
               <div class="col-lg-4 pull-lg-right hidden-md-down">
                 <div id="sb-search" class="sb-search">
                   <form>
-                    <input class="sb-search-input" placeholder="Søg på mit symbion" type="search" value="" name="search" id="search">
+                    <input class="sb-search-input" placeholder="Person el. virksomhed" type="search" value="" name="search" id="search">
                     <input class="sb-search-submit" type="submit" value="">
                     <span class="sb-icon-search bg-info fa fa-search"></span>
                   </form>
