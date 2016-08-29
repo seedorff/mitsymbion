@@ -33,10 +33,13 @@
 		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti?",
 		"employees": [
 			{
-				"name": "Trine P. Klausen"
+				"name": "Trine P. Blue"
 			},
 			{
 				"name": "David S. Thomsen"
+			},
+			{
+				"name": "David Blue Thomsen"
 			}
 		]
 	},
@@ -62,6 +65,72 @@
 			},
 			{
 				"name": "Tobias N. Frederiksen"
+			}
+		]
+	},
+	{
+		"id": "6003",
+		"company": "Bluecyb ApS",
+		"location": "Symbion",
+		"move-in-date": "01/08/2016",
+		"cvr": "12345678",
+		"phone": "87654321",
+		"website": "http://symbion.dk",
+		"email": "hej@symbion.dk",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti?",
+		"employees": [
+			{
+				"name": "Oliver S. Rasmussen"
+			},
+			{
+				"name": "Alberte S. Iversen"
+			},
+			{
+				"name": "Esther M. Ravn"
+			}
+		]
+	},
+	{
+		"id": "6004",
+		"company": "Bluefragments ApS",
+		"location": "The Orbit",
+		"move-in-date": "01/08/2016",
+		"cvr": "12345678",
+		"phone": "87654321",
+		"website": "http://symbion.dk",
+		"email": "hej@symbion.dk",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti?",
+		"employees": [
+			{
+				"name": "Oliver S. Rasmussen"
+			},
+			{
+				"name": "Alberte S. Iversen"
+			},
+			{
+				"name": "Blue Nielsen"
+			}
+		]
+	},
+	{
+		"id": "6005",
+		"company": "Bluewhale ApS",
+		"location": "Creators Floor",
+		"move-in-date": "01/08/2016",
+		"cvr": "12345678",
+		"phone": "87654321",
+		"website": "http://symbion.dk",
+		"email": "hej@symbion.dk",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti? Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti?Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quaerat, velit, pariatur! Assumenda est velit quos obcaecati ea saepe laudantium, quod totam dolores omnis error sunt repudiandae officiis optio explicabo corrupti?",
+		"employees": [
+			{
+				"name": "Blueberry Hidan"
+			},
+			{
+				"name": "Christian Mørch"
+			},
+			{
+				"name": "Esther M. Blue"
 			}
 		]
 	}
