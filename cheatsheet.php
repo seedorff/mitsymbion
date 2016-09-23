@@ -7,38 +7,60 @@ Oversigt og forklaring af visse indholdselementer med markup forklaring.
 <p>Antallet af kolonner kan desuden justeres med <strong>.card-columns-x</strong>, hvor X (2-4) er antallet af kolonner.</p>
 <div class="card-columns">
   
-  <div class="card card-block">
+  <div class="card">
+  	<div class="card-block">
       <h3 class="card-title">Standard farve</h3>
       <p class="card-text">Tekstelementer <strong>p</strong> har .card-text som CSS-class.</p>
       <p class="card-text">Basis HTML-markup for cards ses i denne kasse.</p>
       <p class="card-text">Herudover er en oversigt over de forskellige farve-typer til cards.</p>
+      <p><a href="#">Link eksempel</a></p>
+     </div>
   </div>
 
-  <div class="card card-block card-primary card-inverse">
+  <div class="card card-primary card-inverse">
+  	<div class="card-block">
       <h3 class="card-title">.card-primary.card-inverse</h3>
       <p class="card-text"><strong>.card-primary</strong> angiver baggrundsfarven.</p>
       <p class="card-text"><strong>.card-inverse</strong> skifter tekstfarven fra mørk til lys.</p>
-      <p class="card-text">De fleste cards med farvede baggrunde vil skulle bruge <strong>.card-inverse</strong>, da de er mørke farver.</p>
+      <p class="card-text">De fleste cards med farvede baggrunde vil skulle bruge <strong>.card-inverse</strong>, da de er mørke farver.
+      </p><p><a href="#">Link eksempel</a></p>
+    </div>
   </div>
 
-  <div class="card card-block card-info card-inverse">
+  <div class="card card-info card-inverse">
+  	<div class="card-block">
       <h3 class="card-title">.card-info.card-inverse</h3>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam saepe tempore debitis nostrum odit, voluptas voluptatibus iste, aut nihil nulla repellendus voluptates delectus accusantium dolor possimus soluta dignissimos cumque temporibus.</p>
+      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam saepe tempore debitis nostrum odit, voluptas voluptatibus iste, aut nihil nulla repellendus voluptates delectus accusantium dolor possimus soluta dignissimos cumque temporibus.
+      </p>
+      <p><a href="#">Link eksempel</a></p>
+    </div>
   </div>
 
-  <div class="card card-block card-success card-inverse">
+  <div class="card card-success card-inverse">
+  	<div class="card-block">
       <h3 class="card-title">.card-success.card-inverse</h3>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam saepe tempore debitis nostrum odit, voluptas voluptatibus iste, aut nihil nulla repellendus voluptates delectus accusantium dolor possimus soluta dignissimos cumque temporibus.</p>
+      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam saepe tempore debitis nostrum odit, voluptas voluptatibus iste, aut nihil nulla repellendus voluptates delectus accusantium dolor possimus soluta dignissimos cumque temporibus.
+      </p>
+      <p><a href="#">Link eksempel</a></p>
+    </div>
   </div>
 
-  <div class="card card-block card-warning card-inverse">
+  <div class="card card-warning card-inverse">
+  	<div class="card-block">
       <h3 class="card-title">.card-warning.card-inverse</h3>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam saepe tempore debitis nostrum odit, voluptas voluptatibus iste, aut nihil nulla repellendus voluptates delectus accusantium dolor possimus soluta dignissimos cumque temporibus.</p>
+      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam saepe tempore debitis nostrum odit, voluptas voluptatibus iste, aut nihil nulla repellendus voluptates delectus accusantium dolor possimus soluta dignissimos cumque temporibus.
+      </p>
+      <p><a href="#">Link eksempel</a></p>
+    </div>
   </div>
 
-  <div class="card card-block card-danger card-inverse">
+  <div class="card card-danger card-inverse">
+  	<div class="card-block">
       <h3 class="card-title">.card-danger.card-inverse</h3>
-      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam saepe tempore debitis nostrum odit, voluptas voluptatibus iste, aut nihil nulla repellendus voluptates delectus accusantium dolor possimus soluta dignissimos cumque temporibus.</p>
+      <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nam saepe tempore debitis nostrum odit, voluptas voluptatibus iste, aut nihil nulla repellendus voluptates delectus accusantium dolor possimus soluta dignissimos cumque temporibus.
+      </p>
+      <p><a href="#">Link eksempel</a></p>
+    </div>
   </div>
 
 </div>
