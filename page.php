@@ -2,8 +2,11 @@
 
 	<div class="col-lg-8 main-content"><!-- main-content - static container -->
 		
-		<div class="card"><!-- card-example - dynamic content -->
+		<div class="card">
 			<div class="card-block">
+
+				<!-- Dynamic content starts here -->
+
 		  		<h1>Standard sideskabelon</h1>
 		  		<p>Standard skabelon til indholdsside af anden karakter.</p>
 
@@ -25,6 +28,8 @@
 		  		  <p>
 		  		Te dicta euripidis vituperata vis, no elit assum tantas duo. In adipisci philosophia eam, dicat latine nam at. Eum ut viderer pericula, ei patrioque abhorreant dissentiet his, consequuntur mediocritatem sea ea. Sed sale saepe consequat no, soleat percipitur contentiones id per. Eos ea justo atqui. Ex facete molestie placerat mei, cu eius diceret aliquando eos. Nec ne liber efficiantur.
 		  		</p>
+
+		  		<!-- /Dynamic ends here -->
 	  		</div>
   		</div>
 
@@ -32,7 +37,9 @@
 
  	<aside class="col-lg-4"><!-- Sidebar-content - static container -->
 
- 		<div class="card"><!-- Card example - dynamic content -->
+ 		<!-- Dynamic content starts here: Cards can be added -->
+ 		
+ 		<div class="card">
  			<div class="card-block">
 	 			<h3 class="card-title">Sidebar titel</h3>
 	 			<p class="card-text">Element i sidebaren, der eventuelt kan anvendes som cross-page indhold.</p>
@@ -43,6 +50,7 @@
  		<?php require_once 'inc/widgets/event_feed.php'; ?>
  		<?php require_once 'inc/widgets/roomstoday_feed.php'; ?>
 
+ 		<!-- /Dynamic content ends here -->
  	</aside><!-- /Sidebar-content - static container -->
 
 </div><!-- /row -->
