@@ -35,7 +35,7 @@ $tomato-red: #DA2B17;
 	background-color: $yellow-sun !important;
 	color: $lightondark !important;
 }
-.card-inverse a {
+.card-inverse a:not(.btn) {
 	color: $lightondark !important;
 }
 
